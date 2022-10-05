@@ -4,5 +4,5 @@ What's up!
 - 🌱 I’m currently learning advanced solidity
 - 😄 Pronouns: He/Him
 - :school_satchel: Currently studying IT in SSN College Of Engineering
-- :date: Previous work includes projects on ML/DL 
+- :date: Previous work include projects on ML/DL 
 
